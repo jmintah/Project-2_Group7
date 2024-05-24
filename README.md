@@ -1,1 +1,1 @@
-# Project-2_Group7
+The instructions for this mini project are divided into the following subsections whixh was create the Category and Subcategory DataFrames, create the Campaign DataFrame, create the Contacts DataFrame, and create the Crowdfunding Database. 
